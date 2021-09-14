@@ -62,9 +62,12 @@ h4{
     border-radius: 0.5rem;
 }
 
-hr {
-    padding: 2rem;
+/* hr {
+    padding: 1rem;
     margin-top: 0px;
+    margin-bottom: 0px;
     background-color: slateblue;
-}
+    border-bottom-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+} */
 
